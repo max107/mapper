@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"gitlab.com/falaleev/shared/mapper"
+	"github.com/max107/mapper"
 )
 
 type ExampleFrom int

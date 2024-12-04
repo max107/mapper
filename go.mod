@@ -1,4 +1,4 @@
-module gitlab.com/falaleev/shared/mapper
+module github.com/max107/mapper
 
 go 1.23
 
